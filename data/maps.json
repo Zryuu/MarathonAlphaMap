@@ -1,0 +1,14 @@
+﻿{
+  "diremarsh":
+  {
+    "filepath": "./assets/maps/dire-marsh.png",
+    "width": 1345,
+    "height": 935
+  },
+  "perimeter":
+  {
+    "filepath": "./assets/maps/perimeter.png",
+    "width": 1342,
+    "height": 943
+  }
+}
